@@ -1,4 +1,5 @@
 ghcr.io/iluobei/miaomiaowu:0.6.2
 dreamacro/clash
+haishanh/yacd
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
