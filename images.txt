@@ -1,2 +1,2 @@
 jc21/nginx-proxy-manager:latest
-db
+jc21/mariadb-aria:latest
