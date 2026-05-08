@@ -1,3 +1,1 @@
-jc21/nginx-proxy-manager:latest
-jc21/mariadb-aria:latest
 neosmemo/memos:latest
