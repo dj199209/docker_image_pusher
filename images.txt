@@ -1,1 +1,1 @@
-neosmemo/memos:v0.19.0
+neosmemo/memos:0.19
